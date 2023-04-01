@@ -1,0 +1,29 @@
+.footer{
+    background-color: #757575;
+    z-index: 1000;
+    border-top-left-radius: 1.8rem;
+    border-top-right-radius: 1.8rem;
+}
+
+.logof{
+    width: 80px !important;
+    height: 130px !important;
+}
+
+.logof :hover{
+    filter:opacity(50%);
+    transition: 0,5s;
+}
+
+.logos{
+    width: 40px ;
+    height: 40px ;
+    margin: 0 0 2rem !important;
+    text-decoration: none;
+    color: none;
+}
+
+.logos :hover{
+    filter:opacity(30%);
+    transition: 0,5s;
+}
